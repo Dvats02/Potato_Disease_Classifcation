@@ -1,5 +1,5 @@
 
-# Potato Disease Classification
+# Plant Disease Classification
 
 This project is a machine learning-based system for classifying various diseases affecting potato crops using image data. The aim is to help farmers identify and treat diseases quickly to improve crop yield.
 
